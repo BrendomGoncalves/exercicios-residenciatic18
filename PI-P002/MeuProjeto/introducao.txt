@@ -1,1 +1,3 @@
 O objetivo central da "Biblioteca de Livros" é proporcionar um espaço onde os entusiastas da leitura possam explorar uma ampla gama de gêneros literários, desde clássicos até obras modernas. Por meio de uma interface intuitiva, os usuários poderão navegar por títulos, autores e temas, além de terem a possibilidade de acessar resumos, análises e recomendações, enriquecendo sua jornada literária.
+
+ O Modo de Leitura Noturna é a mais nova adição ao projeto Biblioteca de Livros. Agora, os leitores podem mergulhar nas páginas dos livros mesmo durante a noite, sem cansar os olhos. Com um simples clique no ícone da lua na navbar, a interface transforma-se em tons suaves e escuros, proporcionando uma experiência de leitura mais confortável em ambientes com pouca luz.
