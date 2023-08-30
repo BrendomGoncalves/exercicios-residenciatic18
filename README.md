@@ -1,1 +1,1 @@
-# Exercicios feitos na residencia tecnológica
+# Exercicios feitos na residencia tecnológica.
