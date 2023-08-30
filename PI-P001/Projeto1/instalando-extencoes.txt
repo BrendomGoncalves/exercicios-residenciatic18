@@ -1,0 +1,6 @@
+C/C++ Snippets (Harsh)
+    Cria formas de resumir partes do código tanto em C quanto em C++, auxilia na criação de programas e permite facilitar a escrita de código quando existe muita repetição.
+    ex: escrever a palavra "for" escreve automaticamente toda estrutura do "for"
+
+Gruvbox Themes (Tom Philbin)
+    Adiciona ao VS Code os temas da Gruvbox, com cores mais amareladas e escuras.

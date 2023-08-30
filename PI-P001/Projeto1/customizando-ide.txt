@@ -1,0 +1,1 @@
+Clicando na opção de extenções ao lado esquerdo do VS Code, basta pesquisar pelo nome do tema e clicar em instalar.
