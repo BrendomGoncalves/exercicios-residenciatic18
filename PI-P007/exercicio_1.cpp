@@ -12,6 +12,8 @@ int main(){
         } else if(i % 5 == 0){
             cout << i << " - ";
             cout << "Buzz" << endl;
+        } else {
+            cout << i << endl;
         }
     }
     return 0;
